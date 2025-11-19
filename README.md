@@ -38,9 +38,9 @@ I am Dhanush **Full-Stack Developer** with experience on building production-rea
 
 ## 🔭 Featured Projects
 
-- **[Project-A](https://github.com/yourusername/project-a)** — Short 1-line description.  
-- **[Project-B](https://github.com/yourusername/project-b)** — Short description.  
-- **[Project-C](https://github.com/yourusername/project-c)** — Short description.
+- **[Project-A](https://github.com/yourusername/project-a)** —   
+- **[Project-B](https://github.com/yourusername/project-b)** — 
+- **[Project-C](https://github.com/yourusername/project-c)** — 
 
 ---
 
@@ -66,18 +66,7 @@ I am Dhanush **Full-Stack Developer** with experience on building production-rea
 
 ## ✉️ Contact
 
-- Email: dhanushanbalagan2004@gmail 
+- Email: dhanushanbalagan2004@gmail.com
 - LinkedIn: https://www.linkedin.com/in/dhanush-a-5757abc/
-- Twitter: https://twitter.com/yourhandle  
 
 ---
-
-## 📌 How to Use This
-
-1. Replace **yourusername**, **Your Name**, all links & details.
-2. Paste this into the repository named **your GitHub username**.
-3. Commit → Your profile README updates automatically.
-
----
-
-*Made with ❤️ — customize it and make it your own!*
