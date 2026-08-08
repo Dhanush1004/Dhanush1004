@@ -2,11 +2,11 @@
 
 ## About Me
 
-I am **Dhanush A**, a **Software Developer and AI/ML** enthusiast with hands-on experience in building web applications, mobile apps, and intelligent systems. I enjoy creating scalable and user-focused solutions using modern technologies, and I continuously explore new tools to enhance my development skills.
+I am **Dhanush A**, Recent B.Tech Information Technology graduate with hands-on experience building full-stack applications using React.js, Java, Python, FastAPI, REST APIs, MySQL, and MongoDB. Experienced in developing responsive frontend interfaces, backend services, database integrations, authentication, testing, and API-driven applications through internships and end-to-end projects.
 
-- I’m currently working on: **AI & ML-based Allergy Detection Application**  
-- I’m learning: **Advanced Machine Learning, FastAPI & System Design**  
-- I’m looking to collaborate on: **Full-stack apps, ML projects, and open-source contributions**  
+
+- I’m learning: **AI &  Machine Learning**  
+- I’m looking to collaborate on: **Full-stack projects, and open-source contributions**  
 
 ---
 
@@ -25,7 +25,7 @@ https://portfolio-dhanush-one.vercel.app/
 ## Tech Stack & Tools
 
 ### Programming Languages
-`Java` `C` `Python` `JavaScript`
+`Java` `Python` `JavaScript`
 
 ### Full Stack Technologies
 `HTML` `CSS` `FastAPI` `React.js`  `REST APIs`
