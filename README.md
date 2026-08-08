@@ -27,11 +27,8 @@ https://portfolio-dhanush-one.vercel.app/
 ### Programming Languages
 `Java` `C` `Python` `JavaScript`
 
-### Frontend Technologies
-`HTML` `CSS` `JavaScript` `React`
-
-### Backend Technologies
-`Node.js` `FastAPI` `Spring Boot`
+### Full Stack Technologies
+`HTML` `CSS` `FastAPI` `React.js`  `REST APIs`
 
 ### Database Systems
 `MySQL` `MongoDB`
@@ -40,7 +37,7 @@ https://portfolio-dhanush-one.vercel.app/
 `EDA` `NLP` `Scikit-learn` `Pandas` `NumPy`
 
 ### Other Tools
-`Netlify` `GitHub` `Postman` `Android Studio` `Figma` `Linux`
+ `GitHub` `Postman` `Android Studio`  `Linux`
 
 ### Soft Skills
 `Problem Solving` `Decision Making` `Adaptability` `Collaboration`
