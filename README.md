@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am **Dhanush A**, Recent B.Tech Information Technology graduate with hands-on experience building full-stack applications using React.js, Java, Python, FastAPI, REST APIs, MySQL, and MongoDB. Experienced in developing responsive frontend interfaces, backend services, database integrations, authentication, testing, and API-driven applications through internships and end-to-end projects.
+I am **Dhanush A**, Recent B.Tech Information Technology graduate with hands-on experience building full-stack applications using React.js, Java, Python, FastAPI, REST APIs, MySQL, and MongoDB. Have Hands-on Experience in developing responsive frontend interfaces, backend services, database integrations, authentication, testing, and API-driven applications through internships and end-to-end projects.
 
 
 - I’m learning: **AI &  Machine Learning**  
