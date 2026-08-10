@@ -18,7 +18,7 @@ I am **Dhanush A**, Recent B.Tech Information Technology graduate with hands-on 
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-green?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/dhanushanbalaga1)
 
 ## My Portfolio:
-https://portfolio-dhanush-one.vercel.app/
+https://dhanush-portfolio-20.vercel.app/
 
 ---
 
