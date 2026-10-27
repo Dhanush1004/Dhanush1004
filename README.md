@@ -1,110 +1,164 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=220&section=header&text=Dhanush%20A&fontSize=48&fontAlignY=36&desc=Full--Stack%20Software%20Engineer%20|%20Distributed%20Systems%20%26%20Applied%20AI&descFontSize=19&descAlignY=62&fontColor=ffffff" width="100%" alt="Dhanush A - Header Banner" />
 
-  <br/>
-
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dhanush-portfolio-20.vercel.app/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanush-a-5757abc/)
-  [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/dhanushanbu/)
-  [![Kaggle](https://img.shields.io/badge/Kaggle-Notebooks-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/dhanushanbu/code)
-  [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/dhanushanbalaga1)
-  [![Email](https://img.shields.io/badge/Email-Direct_Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhanushanbalagan2004@gmail.com)
-
-  <br/>
-  
-  <p align="center">
-    <strong>B.Tech in Information Technology</strong> • Specializing in modular REST architectures, state-driven user interfaces, and machine learning integration.
-  </p>
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · dhanush1004</sub></p>
+<h1>Dhanush A</h1>
+<h2>Software Developer | Full-Stack & Backend Development</h2>
+<p>B.Tech Information Technology Graduate · CGPA: 8.1</p>
+<p><strong>● Building practical applications with Java, Python & React.js</strong></p>
+<p><sub>Based in Chennai, Tamil Nadu, India</sub></p>
+<p><a href="https://github.com/dhanush1004">GitHub</a> &nbsp;·&nbsp; <a href="https://portfolio-dhanush-one.vercel.app/">Portfolio</a> &nbsp;·&nbsp; <a href="https://leetcode.com/">LeetCode</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/168363455?u=ef1b3bd92759f642770de0f945a9576dcbc0f57b&amp;v=4" width="180" alt="Dhanush A GitHub avatar" />
+</td>
+</tr>
+</table>
 </div>
 
----
+<h2>What teams can evaluate quickly</h2>
 
-### Professional Overview
-
-- **Core Focus:** Designing robust backend services with FastAPI and Java, paired with reactive, component-driven client architectures in React.js.
-- **Architectural Scope:** End-to-end API lifecycle management, relational and document database indexing, asynchronous task handling, and authentication pipelines.
-- **Applied Intelligence:** Integrating natural language processing, predictive scikit-learn models, and heuristic parsing routines into production web workflows.
-- **Collaborations:** Available for full-stack engineering roles, high-impact backend contracts, and open-source distributed systems.
-
----
-
-### Technical Competencies
-
-<div align="center">
-
-| Domain | Stack & Environment |
-| :--- | :--- |
-| **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=sqlite&logoColor=white) |
-| **Backend & Services** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square&logo=rest&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) |
-| **Frontend Engineering** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
-| **Databases & Storage** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
-| **Applied ML & Data** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-Natural_Language_Processing-5C2D91?style=flat-square) |
-| **Developer Tooling** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white) |
-
-</div>
-
----
-
-### Industry Experience
-
-#### **App Development Intern** — Arjun Vision Tech Solutions (NSIC)
-*June 2024 – July 2024 | Chennai, India*
-- Engineered core application components within native Android SDK using Java, focusing on efficient lifecycle management and memory footprint reduction.
-- Profiled UI rendering overhead and eliminated thread-blocking operations, lowering frame drops across primary user flows.
-- Executed continuous integration tasks through Git, participating in sprint reviews, structural refactoring, and code audits.
-
----
-
-### Featured Architecture & Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">AllergyAlert: Automated Allergen Identification Engine</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-      </p>
-      <ul>
-        <li>Constructed an end-to-end classification pipeline parsing raw commercial food packaging labels to isolate complex hidden allergen compounds.</li>
-        <li>Implemented vector-matched NLP text tokenization to match multi-nomenclature additives against allergen ontologies with high accuracy.</li>
-        <li>Architected non-blocking asynchronous endpoints in FastAPI coupled with indexed MongoDB collections, maintaining low request-response latency under concurrent calls.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">MindCare: Context-Aware Mental Wellness Assistant</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/NLTK-NLP-3776AB?style=flat" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-      </p>
-      <ul>
-        <li>Designed and deployed an interactive conversational interface utilizing supervised natural language tokenization and sentiment classification.</li>
-        <li>Trained multi-class text categorization pipelines on domain-curated dialogue corpuses to provide accurate situational responses.</li>
-        <li>Implemented a minimal, dependency-light frontend with stateless session handling to ensure client-side privacy compliance.</li>
-      </ul>
-    </td>
-  </tr>
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Software Developer · Java · Python · Full-Stack Development · Backend APIs</p></td>
+<td width="33%" valign="top"><h3>Technical foundation</h3><p>React.js · FastAPI · REST APIs · MySQL · MongoDB</p></td>
+<td width="33%" valign="top"><h3>Problem solving</h3><p>80+ LeetCode problems · HackerRank Python 4-Star · 2,223 Hackos</p></td>
+</tr>
 </table>
 
----
+<p><sub>B.Tech Information Technology · Saveetha Engineering College · 2022–2026</sub></p>
 
-### Contribution Metrics & Code Velocity
+<h2>Proof at a glance</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhanush1004&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" alt="GitHub Profile Statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanush1004&layout=compact&theme=dark&hide_border=true" width="48%" alt="Most Used Languages" />
-</div>
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>8.1</strong><br /><sub>CGPA</sub></td>
+<td width="25%" align="center"><strong>80+</strong><br /><sub>LeetCode Problems</sub></td>
+<td width="25%" align="center"><strong>4-Star</strong><br /><sub>HackerRank Python</sub></td>
+<td width="25%" align="center"><strong>2,223</strong><br /><sub>HackerRank Hackos</sub></td>
+</tr>
+</table>
 
-<br/>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=dhanush1004&amp;theme=github-dark&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F168363455%3Fu%3Def1b3bd92759f642770de0f945a9576dcbc0f57b%26v%3D4&amp;v=recruiter-stats-1&amp;mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=dhanush1004&amp;theme=github-dark&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F168363455%3Fu%3Def1b3bd92759f642770de0f945a9576dcbc0f57b%26v%3D4&amp;v=recruiter-stats-1&amp;mode=dark" width="100%" alt="Dhanush A GitHub statistics" />
+</picture>
+</p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Dhanush1004&theme=dark&hide_border=true" width="97%" alt="Commit Streak Statistics" />
-</div>
+<h2>Selected work</h2>
 
----
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<h3>Food Allergy Detection and Management</h3>
+<p><strong>Python · FastAPI · React.js · MongoDB</strong></p>
+<p>A full-stack platform that identifies potential allergens by matching ingredient information against user-specific allergy profiles.</p>
+<ul>
+<li>Developed REST APIs and integrated MongoDB.</li>
+<li>Implemented JWT authentication and user profile management.</li>
+<li>Built features for allergy records, scan history, and personalized risk insights.</li>
+</ul>
+</td>
+<td width="42%" valign="top">
+<h3>Chatbot for Mental Health Treatment</h3>
+<p><strong>Python · FastAPI · NLP</strong></p>
+<p>A conversational application that retrieves relevant responses from a mental health knowledge base.</p>
+<ul>
+<li>Used text vectorization and cosine similarity to match user queries.</li>
+<li>Delivered relevant knowledge-base responses through REST APIs.</li>
+</ul>
+</td>
+</tr>
+</table>
 
-<div align="center">
-  <sub>Dhanush A • Systems & Software Engineering</sub>
-</div>
+<p align="center">
+<a href="https://github.com/Dhanush1004?tab=repositories">Explore my GitHub repositories →</a>
+</p>
+
+<h2>Professional experience</h2>
+
+<table width="100%">
+<tr>
+<td width="100%" valign="top">
+<h3>Android Development Intern — Arjun Vision Tech Solutions</h3>
+<p><sub>Chennai, India · June 2024 – July 2024</sub></p>
+<ul>
+<li>Developed Android application components using Java and Android Studio based on functional requirements.</li>
+<li>Debugged application defects using log analysis and code refactoring to improve application stability and usability.</li>
+<li>Performed feature validation, iterative testing, and GitHub-based code integration within an Agile workflow.</li>
+</ul>
+</td>
+</tr>
+</table>
+
+<h2>Technical toolkit</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=dhanush1004&amp;theme=github-dark&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F168363455%3Fu%3Def1b3bd92759f642770de0f945a9576dcbc0f57b%26v%3D4&amp;v=recruiter-stack-1&amp;mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=dhanush1004&amp;theme=github-dark&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F168363455%3Fu%3Def1b3bd92759f642770de0f945a9576dcbc0f57b%26v%3D4&amp;v=recruiter-stack-1&amp;mode=dark" width="100%" alt="Dhanush A technology stack" />
+</picture>
+</p>
+
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>Java</strong><br /><sub>Programming</sub></td>
+<td width="25%" align="center"><strong>Python</strong><br /><sub>Programming & NLP</sub></td>
+<td width="25%" align="center"><strong>JavaScript</strong><br /><sub>Web Development</sub></td>
+<td width="25%" align="center"><strong>React.js</strong><br /><sub>Frontend</sub></td>
+</tr>
+<tr>
+<td width="25%" align="center"><strong>FastAPI</strong><br /><sub>Backend APIs</sub></td>
+<td width="25%" align="center"><strong>MySQL</strong><br /><sub>Database</sub></td>
+<td width="25%" align="center"><strong>MongoDB</strong><br /><sub>Database</sub></td>
+<td width="25%" align="center"><strong>Git & GitHub</strong><br /><sub>Version Control</sub></td>
+</tr>
+</table>
+
+<h2>Certifications</h2>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<strong>IBM Java Developer</strong><br />
+<sub>September 2025</sub>
+</td>
+<td width="50%" valign="top">
+<strong>SQL (Intermediate) — HackerRank</strong><br />
+<sub>January 2026</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<strong>Deloitte Data Analytics Job Simulation</strong><br />
+<sub>December 2025</sub>
+</td>
+<td width="50%" valign="top">
+<strong>Microsoft Azure Associate Engineer</strong><br />
+<sub>April 2024</sub>
+</td>
+</tr>
+</table>
+
+<h2>Consistency signal</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=dhanush1004&amp;theme=github-dark&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F168363455%3Fu%3Def1b3bd92759f642770de0f945a9576dcbc0f57b%26v%3D4&amp;v=recruiter-heatmap-1&amp;mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=dhanush1004&amp;theme=github-dark&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F168363455%3Fu%3Def1b3bd92759f642770de0f945a9576dcbc0f57b%26v%3D4&amp;v=recruiter-heatmap-1&amp;mode=dark" width="100%" alt="Dhanush A GitHub contribution activity" />
+</picture>
+</p>
+
+<hr />
+
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let's build something useful</h2><p>Open to entry-level Software Developer, Java Developer, Python Developer, Backend Developer, and Full-Stack Developer opportunities.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/dhanush1004">GitHub</a><br /><a href="https://portfolio-dhanush-one.vercel.app/">Portfolio</a></td>
+</tr>
+</table>
+
+<p align="center"><sub>Dhanush A · Software Developer · B.Tech Information Technology, 2026</sub></p>
